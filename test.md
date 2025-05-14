@@ -1,3 +1,1 @@
-line00
-line1
-line2
+This is a test file.
