@@ -59,3 +59,4 @@ In Go language projects, we often need to operate Git repositories. In such case
 Hello, GitGo!
 Hello, GitGo!sssssssssss
 Hello, GitGo!sssssssssssss
+Hello, GitGo!
