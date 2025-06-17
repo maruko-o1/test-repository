@@ -1,17 +1,9 @@
-Hello, GoGitHubAPI 2!
+SGVsbG8sIEdvR2l0SHViQVBJIDIhCgogSGVsbG8sIEdvR2l0SHViQVBJIDIh
+CgogSGVsbG8sIEdvR2l0SHViQVBJIDMhCgogSGVsbG8sIEdvR2l0SHViQVBJ
+IQoKIEhlbGxvLCBHb0dpdEh1YkFQSSAzIQoKIEhlbGxvLCBHb0dpdEh1YkFQ
+SSEKCiBIZWxsbywgR29HaXRIdWJBUEkgMyEKCiBIZWxsbywgR29HaXRIdWJB
+UEkhCgogSGVsbG8sIEdvR2l0SHViQVBJIDMhCg==
 
- Hello, GoGitHubAPI 2!
+Hello, Github API!
 
- Hello, GoGitHubAPI 3!
-
- Hello, GoGitHubAPI!
-
- Hello, GoGitHubAPI 3!
-
- Hello, GoGitHubAPI!
-
- Hello, GoGitHubAPI 3!
-
- Hello, GoGitHubAPI!
-
- Hello, GoGitHubAPI 3!
+Hello, Github API2!
