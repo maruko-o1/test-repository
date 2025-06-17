@@ -9,3 +9,4 @@ Hello, Github API!
 Hello, Github API2!
 
  Hello, GoGitHubAPI 3!
+Hello, GitGo!
