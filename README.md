@@ -12,3 +12,4 @@ dkxDQkhiMGRwZEVoMVlrRlFTU0F6SVFwSVpXeHNieXdnUjJsMApSMjhoQ2c9
 PQoKSGVsbG8sIEdpdGh1YiBBUEkhCg==
 
 Hello, Github API!
+Hello, GitGo2!
