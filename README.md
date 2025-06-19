@@ -21,3 +21,5 @@ Hello, GitGo2!
 Hello, Github API!
 
 Hello, Github API2!
+
+ Hello, GoGitHubAPI!
