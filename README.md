@@ -61,3 +61,5 @@ Hello, GitGo!
 Hello, GitGo2!
 
 Hello, Github API!
+
+ Hello, GoGitHubAPI 3!
